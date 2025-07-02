@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_austin.mk
+    $(LOCAL_DIR)/twrp_austin.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_austin-user \
-    omni_austin-userdebug \
-    omni_austin-eng
+    twrp_austin-user \
+    twrp_austin-userdebug \
+    twrp_austin-eng
